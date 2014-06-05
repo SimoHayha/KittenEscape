@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: d1e0eff80a9214140baa2afdf56976fa
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: bone
+    100002: cluster1Handle
+    100004: cluster2Handle
+    100006: Controler
+    100008: Extra_Node
+    100010: EYES1:EYE
+    100012: EYES1:L_EYE
+    100014: EYES1:LARRY
+    100016: EYES1:R_EYE
+    100018: global_Control
+    100020: global_control
+    100022: group1
+    100024: group2
+    100026: group28
+    100028: group29
+    100030: group3
+    100032: group30
+    100034: group31
+    100036: group32
+    100038: group33
+    100040: group34
+    100042: group35
+    100044: group36
+    100046: group37
+    100048: group38
+    100050: group39
+    100052: group4
+    100054: group40
+    100056: group41
+    100058: group42
+    100060: group5
+    100062: Head01
+    100064: Head_end
+    100066: Higher_spline_control
+    100068: ikHandle1
+    100070: ikHandle10
+    100072: ikHandle11
+    100074: ikHandle12
+    100076: ikHandle13
+    100078: ikHandle14
+    100080: ikHandle15
+    100082: ikHandle16
+    100084: ikHandle2
+    100086: ikHandle3
+    100088: ikHandle4
+    100090: ikHandle5
+    100092: ikHandle6
+    100094: ikHandle7
+    100096: ikHandle8
+    100098: ikHandle9
+    100100: Iks
+    100102: Jaw01
+    100104: L_arm01
+    100106: L_arm__control
+    100108: L_elbow01
+    100110: L_elbow__control
+    100112: L_eye_control
+    100114: L_foot_control
+    100116: L_hip01
+    100118: L_hip02
+    100120: L_index01
+    100122: L_index02
+    100124: L_index03
+    100126: L_index_end
+    100128: L_Jaw_01
+    100130: L_Jaw_end
+    100132: L_knee01
+    100134: L_knee02
+    100136: L_middle01
+    100138: L_middle02
+    100140: L_middle03
+    100142: L_middle_end
+    100144: L_pinky01
+    100146: L_pinky02
+    100148: L_pinky_end
+    100150: L_polevector_control
+    100152: L_ring01
+    100154: L_ring02
+    100156: L_ring03
+    100158: L_ring_end
+    100160: L_shoulder01
+    100162: L_shoulder_control
+    100164: L_thumb01
+    100166: L_thumb02
+    100168: L_thumb03
+    100170: L_thumb_end
+    100172: L_Toe
+    100174: L_wrist01
+    100176: L_wrist_control
+    100178: L_wrist_end
+    100180: LARRY
+    100182: LARRY_BLENDSHAPE_5:polySurface21
+    100184: //RootNode
+    100186: Left_Ankle
+    100188: Left_ball
+    100190: Lower_spline_control
+    100192: Model
+    100194: mouth_control
+    100196: Neck01
+    100198: Neck02
+    100200: Neck03
+    100202: Neck04
+    100204: Neck_control
+    100206: nurbsCircle2
+    100208: nurbsCircle3
+    100210: R_arm01
+    100212: R_arm__control
+    100214: R_elbow01
+    100216: R_elbow__control
+    100218: R_eye_control
+    100220: R_foot_control
+    100222: R_hip01
+    100224: R_hip02
+    100226: R_index01
+    100228: R_index02
+    100230: R_index03
+    100232: R_index_end
+    100234: R_knee01
+    100236: R_knee02
+    100238: R_middle01
+    100240: R_middle02
+    100242: R_middle03
+    100244: R_middle_end
+    100246: R_pinky01
+    100248: R_pinky02
+    100250: R_pinky_end
+    100252: R_polevector_control
+    100254: R_ring01
+    100256: R_ring02
+    100258: R_ring03
+    100260: R_ring_end
+    100262: R_shoulder01
+    100264: R_shoulder_control
+    100266: R_thumb01
+    100268: R_thumb02
+    100270: R_thumb03
+    100272: R_thumb_end
+    100274: R_Toe
+    100276: R_wrist01
+    100278: R_wrist_control
+    100280: R_wrist_end
+    100282: Reft_Ankle
+    100284: Reft_ball
+    100286: root_control
+    100288: spline01
+    100290: spline02
+    100292: spline03
+    100294: spline04
+    100296: spline05
+    100298: spline06
+    100300: spline11
+    100302: spline11 1
+    100304: spline12
+    100306: spline12 1
+    100308: spline13
+    100310: spline13 1
+    100312: spline14
+    100314: spline14 1
+    100316: spline15
+    100318: spline15 1
+    100320: spline16
+    100322: spline16 1
+    100324: spline17
+    100326: spline17 1
+    100328: spline18
+    100330: spline18 1
+    100332: spline19
+    100334: spline19 1
+    100336: spline20
+    100338: spline20 1
+    100340: spline21
+    100342: spline21 1
+    100344: spline22
+    100346: spline22 1
+    100348: spline23
+    100350: spline23 1
+    100352: spline24
+    100354: spline24 1
+    100356: spline25
+    100358: spline25 1
+    100360: spline26
+    100362: spline26 1
+    100364: spline27
+    100366: spline27 1
+    100368: spline28
+    100370: spline28 1
+    100372: spline29
+    100374: spline29 1
+    100376: Spline_end
+    100378: Taill01
+    100380: Taill02
+    100382: Taill03
+    100384: Taill04
+    100386: Taill05
+    100388: Taill06
+    100390: Taill07
+    100392: Taill08
+    100394: Taill09
+    100396: Taill10
+    100398: Taill11
+    100400: Taill12
+    100402: Taill13
+    100404: Taill14
+    100406: Taill15
+    100408: Taill16
+    100410: Taill_end
+    100412: Tell_control
+    100414: TONGUE:pCube1
+    100416: Torso_control
+    100418: U_Jaw_01
+    100420: U_Jaw_end
+    400000: bone
+    400002: cluster1Handle
+    400004: cluster2Handle
+    400006: Controler
+    400008: Extra_Node
+    400010: EYES1:EYE
+    400012: EYES1:L_EYE
+    400014: EYES1:LARRY
+    400016: EYES1:R_EYE
+    400018: global_Control
+    400020: global_control
+    400022: group1
+    400024: group2
+    400026: group28
+    400028: group29
+    400030: group3
+    400032: group30
+    400034: group31
+    400036: group32
+    400038: group33
+    400040: group34
+    400042: group35
+    400044: group36
+    400046: group37
+    400048: group38
+    400050: group39
+    400052: group4
+    400054: group40
+    400056: group41
+    400058: group42
+    400060: group5
+    400062: Head01
+    400064: Head_end
+    400066: Higher_spline_control
+    400068: ikHandle1
+    400070: ikHandle10
+    400072: ikHandle11
+    400074: ikHandle12
+    400076: ikHandle13
+    400078: ikHandle14
+    400080: ikHandle15
+    400082: ikHandle16
+    400084: ikHandle2
+    400086: ikHandle3
+    400088: ikHandle4
+    400090: ikHandle5
+    400092: ikHandle6
+    400094: ikHandle7
+    400096: ikHandle8
+    400098: ikHandle9
+    400100: Iks
+    400102: Jaw01
+    400104: L_arm01
+    400106: L_arm__control
+    400108: L_elbow01
+    400110: L_elbow__control
+    400112: L_eye_control
+    400114: L_foot_control
+    400116: L_hip01
+    400118: L_hip02
+    400120: L_index01
+    400122: L_index02
+    400124: L_index03
+    400126: L_index_end
+    400128: L_Jaw_01
+    400130: L_Jaw_end
+    400132: L_knee01
+    400134: L_knee02
+    400136: L_middle01
+    400138: L_middle02
+    400140: L_middle03
+    400142: L_middle_end
+    400144: L_pinky01
+    400146: L_pinky02
+    400148: L_pinky_end
+    400150: L_polevector_control
+    400152: L_ring01
+    400154: L_ring02
+    400156: L_ring03
+    400158: L_ring_end
+    400160: L_shoulder01
+    400162: L_shoulder_control
+    400164: L_thumb01
+    400166: L_thumb02
+    400168: L_thumb03
+    400170: L_thumb_end
+    400172: L_Toe
+    400174: L_wrist01
+    400176: L_wrist_control
+    400178: L_wrist_end
+    400180: LARRY
+    400182: LARRY_BLENDSHAPE_5:polySurface21
+    400184: //RootNode
+    400186: Left_Ankle
+    400188: Left_ball
+    400190: Lower_spline_control
+    400192: Model
+    400194: mouth_control
+    400196: Neck01
+    400198: Neck02
+    400200: Neck03
+    400202: Neck04
+    400204: Neck_control
+    400206: nurbsCircle2
+    400208: nurbsCircle3
+    400210: R_arm01
+    400212: R_arm__control
+    400214: R_elbow01
+    400216: R_elbow__control
+    400218: R_eye_control
+    400220: R_foot_control
+    400222: R_hip01
+    400224: R_hip02
+    400226: R_index01
+    400228: R_index02
+    400230: R_index03
+    400232: R_index_end
+    400234: R_knee01
+    400236: R_knee02
+    400238: R_middle01
+    400240: R_middle02
+    400242: R_middle03
+    400244: R_middle_end
+    400246: R_pinky01
+    400248: R_pinky02
+    400250: R_pinky_end
+    400252: R_polevector_control
+    400254: R_ring01
+    400256: R_ring02
+    400258: R_ring03
+    400260: R_ring_end
+    400262: R_shoulder01
+    400264: R_shoulder_control
+    400266: R_thumb01
+    400268: R_thumb02
+    400270: R_thumb03
+    400272: R_thumb_end
+    400274: R_Toe
+    400276: R_wrist01
+    400278: R_wrist_control
+    400280: R_wrist_end
+    400282: Reft_Ankle
+    400284: Reft_ball
+    400286: root_control
+    400288: spline01
+    400290: spline02
+    400292: spline03
+    400294: spline04
+    400296: spline05
+    400298: spline06
+    400300: spline11
+    400302: spline11 1
+    400304: spline12
+    400306: spline12 1
+    400308: spline13
+    400310: spline13 1
+    400312: spline14
+    400314: spline14 1
+    400316: spline15
+    400318: spline15 1
+    400320: spline16
+    400322: spline16 1
+    400324: spline17
+    400326: spline17 1
+    400328: spline18
+    400330: spline18 1
+    400332: spline19
+    400334: spline19 1
+    400336: spline20
+    400338: spline20 1
+    400340: spline21
+    400342: spline21 1
+    400344: spline22
+    400346: spline22 1
+    400348: spline23
+    400350: spline23 1
+    400352: spline24
+    400354: spline24 1
+    400356: spline25
+    400358: spline25 1
+    400360: spline26
+    400362: spline26 1
+    400364: spline27
+    400366: spline27 1
+    400368: spline28
+    400370: spline28 1
+    400372: spline29
+    400374: spline29 1
+    400376: Spline_end
+    400378: Taill01
+    400380: Taill02
+    400382: Taill03
+    400384: Taill04
+    400386: Taill05
+    400388: Taill06
+    400390: Taill07
+    400392: Taill08
+    400394: Taill09
+    400396: Taill10
+    400398: Taill11
+    400400: Taill12
+    400402: Taill13
+    400404: Taill14
+    400406: Taill15
+    400408: Taill16
+    400410: Taill_end
+    400412: Tell_control
+    400414: TONGUE:pCube1
+    400416: Torso_control
+    400418: U_Jaw_01
+    400420: U_Jaw_end
+    2300000: EYES1:L_EYE
+    2300002: EYES1:R_EYE
+    2300004: TONGUE:pCube1
+    3300000: EYES1:L_EYE
+    3300002: EYES1:R_EYE
+    3300004: TONGUE:pCube1
+    4300000: EYES1:L_EYE
+    4300002: EYES1:R_EYE
+    4300004: TONGUE:pCube1
+    4300006: LARRY_BLENDSHAPE_5:polySurface21
+    7400000: Take 001
+    7400002: funny
+    11100000: //RootNode
+    13700000: LARRY_BLENDSHAPE_5:polySurface21
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: funny
+      takeName: 
+      firstFrame: 1
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
